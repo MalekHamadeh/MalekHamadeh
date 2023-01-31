@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalekHamadeh
 - 👀 I’m interested in React And Angular
-- 🌱 I’m currently learning Bode.js
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me malekhamadeh.h98@gmail.com
 
 <!---
