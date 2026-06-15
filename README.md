@@ -57,5 +57,5 @@ applications with **Next.js** and **TypeScript**, and build cross-platform mobil
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/malek-hamadeh-51b963214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/malek-hamadeh-51b963214)
 [![Email](https://img.shields.io/badge/Email-C2664A?style=flat-square&logo=gmail&logoColor=white)](mailto:malekhamadeh.h98@gmail.com)
